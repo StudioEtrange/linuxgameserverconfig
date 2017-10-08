@@ -2,3 +2,4 @@
 */serverfiles/
 */backups/
 */steamcmd/
+*.lock
